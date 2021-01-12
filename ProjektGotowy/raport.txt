@@ -1,0 +1,10 @@
+Processed files: 
+52
+Failed files
+0
+Boy avg:
+104
+Girl data
+156
+Tree size
+624
